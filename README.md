@@ -1,3 +1,4 @@
+## B2 - Trabajo Consulta 2: Conexión base de datos relacional
 ### **¿Qué es JDBC?**
 JDBC es una especificación desarrollada por JavaSoft que define una interfaz de programación de aplicaciones (API) estándar diseñada para facilitar el acceso a sistemas de gestión de bases de datos (DBMS) desde programas Java. La API JDBC se compone de un conjunto de interfaces y clases escritas en el lenguaje de programación Java, lo que proporciona una base uniforme para interactuar con diferentes DBMS.
 
